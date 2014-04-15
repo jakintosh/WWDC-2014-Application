@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>About Me</key>
+	<dict>
+		<key>titleText</key>
+		<string>About Jak</string>
+		<key>bodyText</key>
+		<string>Hello! My name is Jak Tiano, and I’m a student and iOS programmer applying for the Apple WWDC 2014 Scholarship. I’m a designer by trade, and a programmer by passion. I love trying to find new ways to make users/players think. I’m also an active member of the independent game development scene, and a collector of vinyl records.
+
+This application was developed mostly in a few days in between classes and course work. While the time restriction means I can’t squish all the minor bugs, I still value attention to detail and a good amount of time went into experience polish, so take notice of the small details! My main goal (as it was with last year’s scholarship application) was to create an interesting system for interacting with and presenting information. Give it a “spin”!
+
+(NOTE: This app uses the accelerometer, so you must run it on a device)</string>
+	</dict>
+	<key>Education</key>
+	<dict>
+		<key>titleText</key>
+		<string>Education</string>
+		<key>bodyText</key>
+		<string>About
+
+I am currently a Junior at Champlain College majoring in Game Design, with a minor in Game Programming.
+
+Awards
+
+I’ve had a great academic career so far, having completed 106 credits with a 3.93 GPA in my first two and a half years of school. I’ve been on the Dean’s list (3.5+) every semester of college, and have made the President’s list (4.0) twice. For the 2014 school year, I was awarded the highest academic achievement for my year in my division.
+
+Leadership
+
+During both my sophomore and junior years, I’ve served as a representative on the Champlain College Game Developer’s Association (CCGDA) leadership team. This year I held the role of President, and have overseen the growth of several subcommittees and the organization of the first annual Green Mountain Games Festival held at Champlain College.</string>
+	</dict>
+	<key>Professional</key>
+	<dict>
+		<key>titleText</key>
+		<string>Not a Hipster Coffee Shop</string>
+		<key>bodyText</key>
+		<string>About NAHCS
+
+Not a Hipster Coffee Shop (NAHCS) is an independent game studio that consists of myself, and my two co-founders Zach Collins and Chas Elterman. We are focused on bringing unique artistic games to the general population, currently through mobile platforms and specifically iOS.
+
+#REALBIRD_REAL
+
+This was our first game as a company, and was used as a way to get used to developing an iOS app as a team, and going through the submission process. The game is an artistic commentary on the events surrounding Flappy Bird, and uses art and gameplay to put the player in the shoes of FB’s creator Dong Nguyen. The game is currently available completely free exclusively on the App Store.
+
+Whale Wars (Working Title)
+
+Whale Wars will be NAHCS’s first commercial title, and is currently under development. The game is set in multiple alternate futures and blends fast paced arcade-style gameplay with dreamlike mystery and a statement on man’s influence on nature. Whale Wars is set to release in July 2014. You can read more on our blog at: nahcsgames.com/blog.</string>
+	</dict>
+	<key>Programming</key>
+	<dict>
+		<key>titleText</key>
+		<string>Programming</string>
+		<key>bodyText</key>
+		<string>Languages and Skills
+
+My focus is on game programming, so a lot of my skills come from a real-time simulation and graphics programming perspective. The languages and tools I’m most experienced with (in descending order) are:
+
+• Xcode: UIKit, SpriteKit, OpenFrameworks, “Obj-C++”
+• Visual Studio: C++, DirectX
+• Unity: C#
+
+Background
+
+I first became interested in programming in 2008, when the iPhone OS 2.0 SDK was announced. As a freshman in high school, I spent my weekends trying to learn Obj-C from scratch. In my junior year, I was given the chance to enroll in college level C++ courses. From there, I learned the basics of OOP, and brought those concepts back to Obj-C to publish my first iPhone app in early 2010. Since then, I’ve taken 9 semesters of college level programming courses, published over 10 applications on both iOS and Windows Phone 8, and have worked on several team-based academic game projects.
+
+WWDC 2013
+
+Last year, I was fortunate (and skilled!) enough to earn the WWDC Student Scholarship. That week in San Francisco was one of the most exciting weeks of my life, and it was really humbling to be a part of such a great gathering of amazing developers. I made so many friends and learned so many things, and I would love to be a part of it again this June.</string>
+	</dict>
+</dict>
+</plist>
